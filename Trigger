@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Unit Test Results
-          path: 'C:\gitHub\Results\Result.xml'
+          path: 'C:\GitHub\Results\Result.xml'
